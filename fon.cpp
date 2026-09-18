@@ -2,7 +2,7 @@
  int echange(int *a, int *b);
 
 int main(){
-    
+    bool test;
     int y, c ,d;
     //appel des deux nombres
     std::cout<<"entrer deux nombres :";
