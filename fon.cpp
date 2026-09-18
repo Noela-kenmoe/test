@@ -2,6 +2,7 @@
  int echange(int *a, int *b);
 
 int main(){
+   int nombre;
     bool test;
     int y, c ,d;
     //appel des deux nombres
