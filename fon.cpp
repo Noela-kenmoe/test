@@ -4,6 +4,7 @@
 int main(){
     
     int y, c ,d;
+    //appel des deux nombres
     std::cout<<"entrer deux nombres :";
     std::cin>> c >> d;
     std::cout<<"avant l'appel:"<< c << d;
