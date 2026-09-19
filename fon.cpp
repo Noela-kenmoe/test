@@ -6,7 +6,7 @@ int main(){
     bool test;
     int y, c ,d;
     //appel des deux nombres
-    std::cout<<"entrer deux nombres :";
+    std::cout<<"entrer les deux premiers nombres :";
     std::cin>> c >> d;
     std::cout<<"avant l'appel:"<< c << d;
     //appel de la fonction echange
