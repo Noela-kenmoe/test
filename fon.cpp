@@ -4,6 +4,7 @@
 int main(){
    int nombre;
     bool test;
+    int z=10;
     int y, c ,d;
     //appel des deux nombres
     std::cout<<"entrer les deux premiers nombres :";
